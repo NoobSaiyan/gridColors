@@ -1,1 +1,3 @@
 # gridColors
+
+![Screenshot](screenshot.png)
